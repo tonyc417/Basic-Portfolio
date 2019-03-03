@@ -37,3 +37,16 @@ a {
     text-decoration: none;
 }
 
+h2 {
+    float: left;
+    color: #4aaaa5;
+    
+}
+
+.center-text {
+    float: left;
+    background-color: white;
+    padding: 100px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
