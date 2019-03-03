@@ -1,0 +1,39 @@
+body {
+    background-image: url(/images/dark-honeycomb.png);
+    margin: 0;
+}
+
+
+.logo {
+    position: fixed;
+    float: left;
+    background: #4aaaa5;
+    margin-left: 280px;
+    padding: 9px;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.top-nav {
+    overflow: hidden;
+    background: white;
+    border-bottom: 2px solid #777777;
+}
+
+li {
+    float: right;
+    color: #777777;
+    padding-right: 100px;
+    padding-bottom: 40px;
+    display: inline;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
