@@ -1,0 +1,20 @@
+nav {
+    background: #333;
+}
+
+nav ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 20px;
+    margin-left: 200px;
+}
+
+nav a {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    display: block;
+    padding: 10px;
+}
+
